@@ -5,6 +5,7 @@
 **Contact**: 15702092@qq.com
 **Date**: June 2026
 **License**: CC BY 4.0
+**DOI**: [10.5281/zenodo.20786027](https://doi.org/10.5281/zenodo.20786027)
 
 ## Abstract
 
@@ -25,10 +26,10 @@ This paper establishes the axiomatic foundation of this proposition. Five core a
 
 ## Citation
 
-Mao, J. (2026). *Axiomatic Foundations of Negation-based Economics: From Parsing Operators to Asset Pricing*. Zenodo. https://doi.org/10.5281/zenodo.[to-be-generated]
+Mao, J. (2026). *Axiomatic Foundations of Negation-based Economics: From Parsing Operators to Asset Pricing*. Zenodo. [https://doi.org/10.5281/zenodo.20786027](https://doi.org/10.5281/zenodo.20786027)
 
 ## Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
-| v1.0 | 2026-06-21 | Initial GitHub + Zenodo archival release. Originally published on SSRN, June 2026. |
+| v1.0 | 2026-06-21 | GitHub + Zenodo archival release. Originally published on SSRN, June 2026. DOI: 10.5281/zenodo.20786027 |
